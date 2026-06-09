@@ -1,0 +1,16 @@
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+
+*.log
+
+build/
+dist/
+
+.DS_Store
+Thumbs.db
+
+*.bak
+*.tmp
